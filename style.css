@@ -49,8 +49,12 @@ td{
 tr:hover{
     background-color: blue;
     color: white;
+    border-style:solid;
+    border-color: black;
+    border-width: 1px;
 }
 
 th:hover{
     color: black;
+    
 }
